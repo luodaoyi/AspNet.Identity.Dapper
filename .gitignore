@@ -3,3 +3,7 @@
 ################################################################################
 
 /AspNet.Identity.Dapper/bin/Debug
+/AspNet.Identity.Dapper/obj/Debug
+/AspNet.Identity.Dapper/packages
+/WebDemo/bin
+/WebDemo/obj/Debug

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Identity.Dapper", "AspNet.Identity.Dapper.csproj", "{AB249032-3E3C-48A0-96B6-06AC0FB3F6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDemo", "..\WebDemo\WebDemo.csproj", "{5865C839-2DE1-4BFC-9BC6-5D26F46A2BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB249032-3E3C-48A0-96B6-06AC0FB3F6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB249032-3E3C-48A0-96B6-06AC0FB3F6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB249032-3E3C-48A0-96B6-06AC0FB3F6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB249032-3E3C-48A0-96B6-06AC0FB3F6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5865C839-2DE1-4BFC-9BC6-5D26F46A2BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5865C839-2DE1-4BFC-9BC6-5D26F46A2BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5865C839-2DE1-4BFC-9BC6-5D26F46A2BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5865C839-2DE1-4BFC-9BC6-5D26F46A2BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
